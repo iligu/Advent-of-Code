@@ -1,4 +1,5 @@
 Advent of Code: https://adventofcode.com/ <br>
+Note: Spoilers/solutions ahead! <br>
 Day 1: ✅✅ <br>
 Day 2: ✅✅ <br>
 Day 3: ✅✅ <br>
